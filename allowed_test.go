@@ -1,4 +1,4 @@
-package isallow
+package allowed
 
 import (
 	"testing"
